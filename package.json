@@ -1,5 +1,5 @@
 {
-  "name": "schedule2-app",
+  "name": "schedule-app",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
